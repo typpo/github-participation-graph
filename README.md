@@ -12,9 +12,9 @@ A simple chrome extension that changes github participation graphs by doing the 
 
 ## Installation
 
-Google no longer allows installation outside of the Chrome Web Store, so you will have to install this manually until it's approved and on the store.
+**[Get it from the Chrome Web Store](https://chrome.google.com/webstore/detail/eopmclompcbgaabjcojbfkjmneacpkbk/publish-accepted)**
 
-Steps:
+Or install it manually:
   1. Fork or clone this repository, eg. `git clone https://github.com/typpo/github-participation-graph.git`
   2. Go to your Chrome Extensions Page (chrome://chrome/extensions/) and enable 'Developer Mode' if not already enabled
   3. 'Load Unpacked Extension' and choose the github-participation-graph directory
