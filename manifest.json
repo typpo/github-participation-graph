@@ -10,7 +10,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.github.com/*"],
-      "js": ["jquery-1.8.1.min.js", "content.js"]
+      "js": ["lib/jquery-1.8.1.min.js", "content.js"]
     }
   ],
   "manifest_version": 2
